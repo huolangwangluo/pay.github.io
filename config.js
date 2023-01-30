@@ -27,16 +27,16 @@ const urls = [ // 付款方式列表
     {
         name: '支付宝', // 名称
         ua: 'Alipay', // User-Agent 正则表达式
-        addr: 'https://qr.alipay.com/awa' // 收款码 URL
+        addr: 'https://qr.alipay.com/tsx11655rhfkwaxtvihb27d' // 收款码 URL
     },
     {
         name: '微信',
         ua: 'MicroMessenger\/',
-        addr: 'wxp://awa'
+        addr: 'wxp://f2f0xvIzKgOvXR2SvRlKK700ROZmD-b67dTpsTyQntpNTxQ'
     },
     {
         name: 'QQ', 
         ua: 'QQ\/',
-        addr: 'https://i.qianbao.qq.com/wallet/sqrcode.htm?awa=awa'
+        addr: 'https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQwuH2pA0YrrndngZCIDEzNzRmNWMyZDBkYWI1NzM1N2RjY2MyNGZlMWY0ZjEz_xxx_sign&u=3567104194&n=%E7%81%AB%E7%8B%BC%E7%BD%91%E7%BB%9C'
     }
 ]
